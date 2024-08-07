@@ -1,5 +1,8 @@
 # Comprehensive-CCNA-Networking-Project
-Comprehensive CCNA Networking Project
+
+**Project Description:**
+
+This project involves designing and implementing a robust network infrastructure using CCNA concepts. Key elements include IP addressing, VLANs, trunking, VTP, SVIs, DHCP, HSRP, OSPF, NAT, and internet connectivity. Wireless access points and EtherChannel are configured for enhanced connectivity and performance. Failover testing is performed to ensure high availability and network resilience under various scenarios. This project demonstrates practical skills in network design, configuration, and troubleshooting.
 
 
 Here's the configuration for CORE-SWITCH1:
